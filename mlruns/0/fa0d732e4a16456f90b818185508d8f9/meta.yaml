@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/fa0d732e4a16456f90b818185508d8f9/artifacts
+end_time: 1687980808443
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa0d732e4a16456f90b818185508d8f9
+run_name: gregarious-ape-597
+run_uuid: fa0d732e4a16456f90b818185508d8f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980804988
+status: 3
+tags: []
+user_id: aariz

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/d7677cf4723c485c9b77c46716583957/artifacts
+end_time: 1687980899764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7677cf4723c485c9b77c46716583957
+run_name: merciful-mink-27
+run_uuid: d7677cf4723c485c9b77c46716583957
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980896042
+status: 3
+tags: []
+user_id: aariz

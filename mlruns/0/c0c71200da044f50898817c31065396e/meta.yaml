@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/c0c71200da044f50898817c31065396e/artifacts
+end_time: 1687980750846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c0c71200da044f50898817c31065396e
+run_name: amusing-kit-347
+run_uuid: c0c71200da044f50898817c31065396e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980747447
+status: 3
+tags: []
+user_id: aariz

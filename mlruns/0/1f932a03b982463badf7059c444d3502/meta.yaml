@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/1f932a03b982463badf7059c444d3502/artifacts
+end_time: 1687980738925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f932a03b982463badf7059c444d3502
+run_name: dashing-foal-717
+run_uuid: 1f932a03b982463badf7059c444d3502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980735357
+status: 3
+tags: []
+user_id: aariz

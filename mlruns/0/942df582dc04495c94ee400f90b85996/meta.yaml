@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/942df582dc04495c94ee400f90b85996/artifacts
+end_time: 1687980775733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 942df582dc04495c94ee400f90b85996
+run_name: redolent-shark-386
+run_uuid: 942df582dc04495c94ee400f90b85996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980772425
+status: 3
+tags: []
+user_id: aariz

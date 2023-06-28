@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/758e6b416ca94376b22cf7213ffd082a/artifacts
+end_time: 1687980705700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 758e6b416ca94376b22cf7213ffd082a
+run_name: magnificent-fawn-205
+run_uuid: 758e6b416ca94376b22cf7213ffd082a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980701828
+status: 3
+tags: []
+user_id: aariz

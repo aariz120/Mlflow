@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/794147f08e6c4cbf95845c0e7a73ac8c/artifacts
+end_time: 1687980792013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 794147f08e6c4cbf95845c0e7a73ac8c
+run_name: nebulous-ape-751
+run_uuid: 794147f08e6c4cbf95845c0e7a73ac8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980788387
+status: 3
+tags: []
+user_id: aariz

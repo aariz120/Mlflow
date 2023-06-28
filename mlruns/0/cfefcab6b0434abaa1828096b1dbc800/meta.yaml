@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/cfefcab6b0434abaa1828096b1dbc800/artifacts
+end_time: 1687980767321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cfefcab6b0434abaa1828096b1dbc800
+run_name: likeable-jay-29
+run_uuid: cfefcab6b0434abaa1828096b1dbc800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980763957
+status: 3
+tags: []
+user_id: aariz

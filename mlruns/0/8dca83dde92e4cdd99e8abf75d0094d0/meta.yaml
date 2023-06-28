@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/8dca83dde92e4cdd99e8abf75d0094d0/artifacts
+end_time: 1687980730104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dca83dde92e4cdd99e8abf75d0094d0
+run_name: burly-mare-407
+run_uuid: 8dca83dde92e4cdd99e8abf75d0094d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980726828
+status: 3
+tags: []
+user_id: aariz

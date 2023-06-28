@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/90d64da0ca4d436a8fe721ed301d055a/artifacts
+end_time: 1687980879165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90d64da0ca4d436a8fe721ed301d055a
+run_name: bedecked-mole-386
+run_uuid: 90d64da0ca4d436a8fe721ed301d055a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980875564
+status: 3
+tags: []
+user_id: aariz

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/c8797fa5ef054c70870e9e676536bfb4/artifacts
+end_time: 1687980721690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8797fa5ef054c70870e9e676536bfb4
+run_name: skillful-bee-11
+run_uuid: c8797fa5ef054c70870e9e676536bfb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980718399
+status: 3
+tags: []
+user_id: aariz

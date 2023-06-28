@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/8274bce852b34c4abf2f5bcecc2696e7/artifacts
+end_time: 1687980783683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8274bce852b34c4abf2f5bcecc2696e7
+run_name: abundant-zebra-194
+run_uuid: 8274bce852b34c4abf2f5bcecc2696e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980780584
+status: 3
+tags: []
+user_id: aariz

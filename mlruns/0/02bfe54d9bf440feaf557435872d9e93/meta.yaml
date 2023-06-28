@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/02bfe54d9bf440feaf557435872d9e93/artifacts
+end_time: 1687980928110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02bfe54d9bf440feaf557435872d9e93
+run_name: exultant-newt-727
+run_uuid: 02bfe54d9bf440feaf557435872d9e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687980924572
+status: 3
+tags: []
+user_id: aariz
