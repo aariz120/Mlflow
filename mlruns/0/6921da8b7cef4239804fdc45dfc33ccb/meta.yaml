@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/6921da8b7cef4239804fdc45dfc33ccb/artifacts
+end_time: 1687974627281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6921da8b7cef4239804fdc45dfc33ccb
+run_name: overjoyed-bear-919
+run_uuid: 6921da8b7cef4239804fdc45dfc33ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687974624239
+status: 3
+tags: []
+user_id: aariz

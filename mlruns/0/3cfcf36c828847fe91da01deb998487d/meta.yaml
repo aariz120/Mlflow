@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/3cfcf36c828847fe91da01deb998487d/artifacts
+end_time: 1687974520979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cfcf36c828847fe91da01deb998487d
+run_name: ambitious-grouse-13
+run_uuid: 3cfcf36c828847fe91da01deb998487d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687974517798
+status: 3
+tags: []
+user_id: aariz

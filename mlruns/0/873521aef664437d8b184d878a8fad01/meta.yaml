@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/873521aef664437d8b184d878a8fad01/artifacts
+end_time: 1687966580562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 873521aef664437d8b184d878a8fad01
+run_name: sneaky-mule-806
+run_uuid: 873521aef664437d8b184d878a8fad01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687966580515
+status: 3
+tags: []
+user_id: aariz

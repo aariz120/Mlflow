@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/ca934394f012406ea0d64c00570984ac/artifacts
+end_time: 1687975236898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca934394f012406ea0d64c00570984ac
+run_name: orderly-snail-710
+run_uuid: ca934394f012406ea0d64c00570984ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687975236068
+status: 4
+tags: []
+user_id: aariz

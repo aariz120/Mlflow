@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/40ea82caf0244e2983be70df8f52f2ae/artifacts
+end_time: 1687800042685
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40ea82caf0244e2983be70df8f52f2ae
+run_name: orderly-donkey-139
+run_uuid: 40ea82caf0244e2983be70df8f52f2ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687800042643
+status: 3
+tags: []
+user_id: aariz

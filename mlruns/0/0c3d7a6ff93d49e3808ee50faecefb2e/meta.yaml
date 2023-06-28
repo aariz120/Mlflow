@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/aariz/mlflow/mlruns/0/0c3d7a6ff93d49e3808ee50faecefb2e/artifacts
+end_time: 1687975347689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0c3d7a6ff93d49e3808ee50faecefb2e
+run_name: dazzling-colt-514
+run_uuid: 0c3d7a6ff93d49e3808ee50faecefb2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687975344006
+status: 3
+tags: []
+user_id: aariz
